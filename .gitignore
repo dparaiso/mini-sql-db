@@ -1,0 +1,23 @@
+node_modules/
+
+#OS
+.DS_Store 
+Thumbs.db 
+
+#ID 
+.vscode
+.idea 
+
+#Local env files
+.env
+.env.local 
+.env.production
+.env.devlopment
+
+
+#Database 
+database/
+backup/ 
+
+#Logs 
+logs/
